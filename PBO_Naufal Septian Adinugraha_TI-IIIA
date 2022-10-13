@@ -1,0 +1,24 @@
+run:
+1.satu
+2.Dua
+3.Tiga
+4.Empat
+5.Lima
+Menu : 
+1. Tambah
+2. Hapus
+x. Keluar
+Pilih : 1
+Menambah ToDo List
+Todo (x Jika Batal) : 2
+1.satu
+2.Dua
+3.Tiga
+4.Empat
+5.Lima
+6.2
+Menu : 
+1. Tambah
+2. Hapus
+x. Keluar
+Pilih : 
